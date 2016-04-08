@@ -6,12 +6,13 @@
  
 ## ubuntu15 notes
 
-to update nginx
+###to update nginx
 rvmsudo passenger-install-nginx-module
 
-nginx path:
+###nginx path:
 /opt/nginx
-web path:
+
+###web path:
 /home/vagrant/rails/current
 
 
